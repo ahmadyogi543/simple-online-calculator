@@ -1,7 +1,7 @@
 # Online Simple Calculator - RCTN
 
-Nama: Ahmad Yogi
-Program: React & React Native for Front End Developer
+- Nama: Ahmad Yogi
+- Program: React & React Native for Front End Developer
 
 This is an assignment for RCTN Program from Hacktiv8 x Kampus Merdeka
 
