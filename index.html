@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Simple Online Calculator </title>
+        <link rel="stylesheet" href="./assets/css/main.css">
+        <link rel="stylesheet" href="./assets/css/display-box.css">
+        <link rel="stylesheet" href="./assets/css/button.css">
+    </head>
+    <body>
+        <div class="calc__container">
+            <div class="calc__display-box">
+                <input class="display-box" type="text" placeholder="0" readonly>
+            </div>
+            <div class="calc__buttons">
+                <button class="calc-btn" onclick="getValue(this)">AC</button>
+                <button class="calc-btn" onclick="getValue(this)">CE</button>
+                <button class="calc-btn" onclick="getValue(this)">÷</button>
+                <button class="calc-btn" onclick="getValue(this)">×</button>
+                <button class="calc-btn" onclick="getValue(this)">7</button>
+                <button class="calc-btn" onclick="getValue(this)">8</button>
+                <button class="calc-btn" onclick="getValue(this)">9</button>
+                <button class="calc-btn" onclick="getValue(this)">−</button>
+                <button class="calc-btn" onclick="getValue(this)">4</button>
+                <button class="calc-btn" onclick="getValue(this)">5</button>
+                <button class="calc-btn" onclick="getValue(this)">6</button>
+                <button class="calc-btn" onclick="getValue(this)">+</button>
+                <button class="calc-btn" onclick="getValue(this)">1</button>
+                <button class="calc-btn" onclick="getValue(this)">2</button>
+                <button class="calc-btn" onclick="getValue(this)">3</button>
+                <button class="calc-btn accent-color eq-btn" onclick="getValue(this)">=</button>
+                <button class="calc-btn zero-btn" onclick="getValue(this)">0</button>
+                <button class="calc-btn" onclick="getValue(this)">.</button>
+            </div>
+        </div>
+    </body>
+    <script src="./assets/js/index.js"></script>
+</html>

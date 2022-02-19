@@ -1,0 +1,17 @@
+.display-box {
+	border: none;
+	text-align: right;
+	font-size: 40px;
+	color: #fefefe;
+	background-color: transparent;
+	cursor: default;
+	background-color: #1b1b1b;
+	width: 100%;
+	padding: 31px;
+	user-select: none;
+	border-radius: 8px 8px 0 0;
+}
+
+.display-box:focus {
+	outline: none;
+}

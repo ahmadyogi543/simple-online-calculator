@@ -1,0 +1,14 @@
+# Online Simple Calculator - RCTN
+
+Nama: Ahmad Yogi
+Program: React & React Native for Front End Developer
+
+This is an assignment for RCTN Program from Hacktiv8 x Kampus Merdeka
+
+# What this calculator can do?
+- Add, substract, multiply and divide two numbers
+- Clear the input filed with a clear button
+- Can keep chaining mathematical operations together until hit the equal button, and the calculator will tell the correct output
+
+# Interface
+![Interface](images/interface.png)
