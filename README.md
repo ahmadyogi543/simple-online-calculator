@@ -14,4 +14,4 @@ This is an assignment for RCTN Program from Hacktiv8 x Kampus Merdeka
 # Interface
 ![Interface](images/interface.png)
 
-This project is created by @ahmadyogi543
+This project is created by __@ahmadyogi543__
