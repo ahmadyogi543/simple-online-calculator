@@ -11,7 +11,7 @@ This is an assignment for RCTN Program from Hacktiv8 x Kampus Merdeka
 - Clear the input filed with a clear button
 - Can keep chaining mathematical operations together until hit the equal button, and the calculator will tell the correct output
 
-## Interface
-![Interface](images/interface.png)
+## Screenshots
+![Interface](images/screenshot.png)
 
 This project is created by __Ahmad Yogi__
