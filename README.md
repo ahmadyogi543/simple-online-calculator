@@ -11,6 +11,9 @@ This is an assignment for RCTN Program from Hacktiv8 x Kampus Merdeka
 - Clear the input filed with a clear button
 - Can keep chaining mathematical operations together until hit the equal button, and the calculator will tell the correct output
 
+## Try it out
+You can try out this calculator here [Simple Online Calculator](https://ahmadyogi543.github.io/simple-online-calculator)
+
 ## Screenshots
 ![Interface](images/screenshot.png)
 
